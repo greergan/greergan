@@ -1,4 +1,4 @@
-### What I am doing currently, in part.
+### What I am doing currently, in part. (June 2021)
 I am playing with Python which will be used to create a static-content generator which will take from a source repository and dress source files up to look good
 on the github.io platform for personal and project web pages. I plan on using this system to create tutorials which will act as place markers for me to find things
 as well as to, hopefully, help new programmers get started.
