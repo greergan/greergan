@@ -23,7 +23,7 @@ I wrote:
 - A small image processor written in C - it only fixed GIF headers but was a fun way to learn about binary files
 - An NCurses data entry system which ran on SunOS and Solaris and was written entirely by me using Basmark QuickBasic
 - A text file processor which allowed for easy impelentation of data input specialist procedures which was another C production program
-- A proof of concept 370 Assembeler language to C language transpiler. I helped the R&D guy do this in Basic. We only got to about 90% correct code but it was very fun
+- A proof of concept 370 Assembeler language to C language transpiler. I helped the R&D guy do this in Basic. We only got to about 90% correct code but it was very fun. The PC Server 500 that is described below negated the need as we could continue to run our Assembler programs unedited.
 
 I sysadmined:
 - SunOS and the transition to Solaris on a pair of mid-range Sun machines with Xterminal thin clients
