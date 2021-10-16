@@ -1,7 +1,4 @@
-### What I am doing currently, in part. (June 2021)
-I am playing with Python which will be used to create a static-content generator which will take from a source repository and dress source files up to look good
-on the github.io platform for personal and project web pages. I plan on using this system to create tutorials which will act as place markers for me to find things
-as well as to, hopefully, help new programmers get started.
+
 
 ### What I am as a computer scientist
 I am a systems and software architect as well as a sysadmin and programmer. My choices mean that I have touched many different areas of computing since
