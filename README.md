@@ -1,4 +1,17 @@
-
+### Currently
+I am developing a Typescript platform called Slim with individually usable submodules.
+<ol>
+  <li>Slim</li>
+      - CLI
+  <li>Slim.Objects</li>
+      - Typescript object library
+  <li>Slim.Logging</li>
+      - Typescript logging module
+  <li>Slim.View</li>
+      - Typescript HTML rendering engine
+  <li>Slim.Generator</li>
+      - A program generator using <a href="https://deno.land">Deno</a>
+</ol>
 
 ### What I am as a computer scientist
 I am a systems and software architect as well as a sysadmin and programmer. My choices mean that I have touched many different areas of computing since
