@@ -9,8 +9,6 @@ I am developing a Typescript platform called Slim with individually usable submo
       - Typescript logging module
   <li>Slim.View</li>
       - Typescript HTML rendering engine
-  <li>Slim.Generator</li>
-      - A program generator using <a href="https://deno.land">Deno</a>
 </ol>
 
 ### What I am as a computer scientist
