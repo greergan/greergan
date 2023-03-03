@@ -1,16 +1,3 @@
-### Currently
-I am developing a Typescript platform called Slim with individually usable submodules.
-<ol>
-  <li>Slim</li>
-      - CLI
-  <li>Slim.Objects</li>
-      - Typescript object library
-  <li>Slim.Logging</li>
-      - Typescript logging module
-  <li>Slim.View</li>
-      - Typescript HTML rendering engine
-</ol>
-
 ### What I am as a computer scientist
 I am a systems and software architect as well as a sysadmin and programmer. My choices mean that I have touched many different areas of computing since
 I began in the early 1990's. I have fun. I hacked my way into learning what it takes to do what I am now able to do. My most expensive operating system purchase
