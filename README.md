@@ -1,6 +1,8 @@
 ### What I am as a computer scientist
 I am a systems and software architect as well as a sysadmin and programmer. My choices mean that I have touched many different areas of computing since
-I began in the early 1990's. I have fun. I hacked my way into learning what it takes to do what I am now able to do. My most expensive operating system purchase
+I began in the early 1990's. I have fun.
+
+I hacked my way into learning what it takes to do what I am now able to do. My most expensive operating system purchase
 is based on the method of retrieval rather than any cost charged for the contents. That OS is Linux. Way back before there was standard Internet access there were
 large networks such as AOL and Compuserve. They charged by the minute and were sloooooooow. 1200-2400 baud was typical at that time. I was happer with 9600 buad and
 was in heaven with the addition of ISDN lines. Bonded ISDN lines freed me to explore even more.
@@ -33,4 +35,6 @@ to allow us to keep using our existing IBM 4341 attached storage and printers.
 
 I am blessed to have had such a beginning on my journey as a computer scientist. I was exposed to a lot of new and old technology for the time. I am grateful I had
 the opportunities that were presented to me; and I am glad that the GNU project has great compilers for free. I spent a lot of cash for Borland Turbo C and the
-professional version of Borland C/C++/Objective C compilers for Windows.
+professional version of Borland C/C++/Objective C compilers for Windows in the early days of my exploration.
+
+All of this on my first job with Datapage Technologies which began with as a paid internship which turned into a promotion to being the company Sys Admin.
