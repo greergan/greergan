@@ -11,6 +11,10 @@ I am an automation expert. I began learning about machine automation when I work
 mainframe operator. I had fun learning how to program in the Basic programming language. I used it to automate steps used to transfer data from floppy disks.
 This data would end up as a basic foundation for typesetting jobs that ran on the mainframe.
 
+I am an ETL expert. I began learning about the ETL process as I rewrote a C program intended to extract files, process them and then load them to the mainframe via an IRMA card.
+
+### The Datapage years
+
 During this time period I also began to learn the C programming language along with several variants of Basic, including a variant called Basmark QuickBasic for UNIX.
 I eventually landed the company system administrator position  and began to learn PERL. It was PERL that would become my go to language for decades, even when using
 other languages for primary production use.
@@ -19,7 +23,7 @@ I wrote:
 - My first cgi program written in C that ran under a new web server called Apache
 - A small image processor written in C - it only fixed GIF headers but was a fun way to learn about binary files
 - An NCurses data entry system which ran on SunOS and Solaris and was written entirely by me using Basmark QuickBasic
-- A text file processor which allowed for easy impelentation of data input specialist procedures which was another C production program
+- A text file processor and formatter which prepared customer supplied word processing files which were loaded to the mainframe from a PC. This was written in C.
 - A proof of concept 370 Assembeler language to C language transpiler. I helped the R&D guy do this in Basic. We only got to about 90% correct code but it was very fun. The PC Server 500 that is described below negated the need as we could continue to run our Assembler programs unedited.
 
 I sysadmined:
@@ -37,4 +41,6 @@ I am blessed to have had such a beginning on my journey as a computer scientist.
 the opportunities that were presented to me; and I am glad that the GNU project has great compilers for free. I spent a lot of cash for Borland Turbo C and the
 professional version of Borland C/C++/Objective C compilers for Windows in the early days of my exploration.
 
-All of this on my first job with Datapage Technologies which began with as a paid internship which turned into a promotion to being the company Sys Admin.
+All of this on my first job with Datapage Technologies which began with as a paid internship which turned into a promotion to company System Administrator.
+
+
